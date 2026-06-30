@@ -1,0 +1,7 @@
+docling
+chromadb
+ollama
+google-genai
+keybert
+openai
+python-dotenv
