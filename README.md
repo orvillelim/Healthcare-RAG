@@ -1,6 +1,11 @@
 # HMO-RAG
 
-A local Retrieval-Augmented Generation (RAG) pipeline for Philippine HMO documents. It parses HMO benefit PDFs, rewrites and embeds them into a local vector store, and answers natural-language questions using the retrieved document context.
+A local Retrieval-Augmented Generation (RAG) pipeline for Philippine HMO documents. It parses HMO benefit PDFs, rewrites and embeds them into a local vector store, and answers natural-lang
+
+uage questions using the retrieved document context.
+
+## Demo
+<img width="2023" height="809" alt="Screenshot 2026-06-30 at 9 50 49 AM" src="https://github.com/user-attachments/assets/50bb42dd-48b7-409f-ae0c-46c437dc186f" />
 
 ## What is it
 
